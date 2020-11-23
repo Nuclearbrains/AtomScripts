@@ -1,2 +1,2 @@
-##Welcome To Atom Scripts
+#Welcome To Atom Scripts
 LOL
